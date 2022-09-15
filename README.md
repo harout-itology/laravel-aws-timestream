@@ -14,7 +14,7 @@ See `NorbyBaru\AwsTimestream\Contract\PayloadBuilderContract`
 
 ## Install
 ```bash
-composer require norbybaru/laravel-aws-timestream
+composer require harout-itology/laravel-aws-timestream
 ```
 
 ## Configuration
@@ -28,6 +28,7 @@ php artisan vendor:publish --provider="NorbyBaru\AwsTimestream\TimestreamService
 AWS_TIMESTREAM_KEY=
 AWS_TIMESTREAM_SECRET=
 AWS_TIMESTREAM_PROFILE=
+AWS_TIMESTREAM_REGION=
 ```
 
 ## Basic Usage

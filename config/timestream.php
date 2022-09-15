@@ -12,6 +12,16 @@ return [
     'secret' => env('AWS_TIMESTREAM_SECRET'),
 
     /**
+     * AWS Timestream version
+     */
+    'version' => env('AWS_TIMESTREAM_VERSION', 'latest'),
+
+    /**
+     * AWS Timestream region
+     */
+    'region' => env('AWS_TIMESTREAM_REGION'),
+
+    /**
      * (string) Allows you to specify which profile to us
      *
      * Note: Specifying "profile" will cause the "credentials" key to be ignored.
