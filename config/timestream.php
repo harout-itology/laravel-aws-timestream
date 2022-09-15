@@ -31,7 +31,7 @@ return [
     /**
      * Database name
      */
-    'database' => env('AWS_TIMESTREAM_DATABASE'),
+    'database' => env('AWS_TIMESTREAM_DATABASE', 'database'),
 
     /**
      * Enable query and metadata logging on server
