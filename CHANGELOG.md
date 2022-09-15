@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## v0.2.1 - 2022-09-15
+
+-   fixing namespace issues
+
 ## v0.2.0 - 2022-09-15
 
 -   adding the AWS region as a config value
