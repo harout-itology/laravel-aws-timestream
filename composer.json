@@ -1,31 +1,36 @@
 {
-    "name": "norbybaru/laravel-aws-timestream",
+    "name": "harout-itology/laravel-aws-timestream",
     "description": "Library to interact with AWS Timestream service via API",
     "keywords": ["aws timestream", "laravel aws timestream", "laravel timeseries db", "timeseries db"],
     "type": "library",
-    "homepage": "https://github.com/norbybaru/laravel-aws-timestream",
+    "homepage": "https://github.com/harout-itology/laravel-aws-timestream",
     "license": "MIT",
     "extra": {
         "laravel": {
             "providers": [
-                "NorbyBaru\\AwsTimestream\\TimestreamServiceProvider"
+                "HaroutItology\\AwsTimestream\\TimestreamServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
-            "NorbyBaru\\AwsTimestream\\": "src/"
+            "HaroutItology\\AwsTimestream\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "NorbyBaru\\AwsTimestream\\Tests\\": "tests/"
+            "HaroutItology\\AwsTimestream\\Tests\\": "tests/"
         }
     },
     "authors": [
         {
             "name": "Norby Baruani",
             "email": "norby.baruani@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Harout ITology",
+            "email": "harout.itology@gmail.com",
             "role": "Developer"
         }
     ],

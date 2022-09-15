@@ -1,9 +1,9 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Concerns;
+namespace HaroutItology\AwsTimestream\Concerns;
 
 use Illuminate\Support\Str;
-use NorbyBaru\AwsTimestream\Builder\Builder;
+use HaroutItology\AwsTimestream\Builder\Builder;
 
 trait BuildersConcern
 {

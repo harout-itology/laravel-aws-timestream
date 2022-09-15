@@ -1,11 +1,11 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Tests\Unit;
+namespace HaroutItology\AwsTimestream\Tests\Unit;
 
-use NorbyBaru\AwsTimestream\Builder\Builder;
-use NorbyBaru\AwsTimestream\Dto\TimestreamReaderDto;
-use NorbyBaru\AwsTimestream\Tests\TestCase;
-use NorbyBaru\AwsTimestream\TimestreamBuilder;
+use HaroutItology\AwsTimestream\Builder\Builder;
+use HaroutItology\AwsTimestream\Dto\TimestreamReaderDto;
+use HaroutItology\AwsTimestream\Tests\TestCase;
+use HaroutItology\AwsTimestream\TimestreamBuilder;
 
 class ReaderUnitTest extends TestCase
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Tests\Unit;
+namespace HaroutItology\AwsTimestream\Tests\Unit;
 
-use NorbyBaru\AwsTimestream\Builder\Builder;
-use NorbyBaru\AwsTimestream\Builder\TimestreamQueryBuilder;
-use NorbyBaru\AwsTimestream\Tests\TestCase;
-use NorbyBaru\AwsTimestream\TimestreamBuilder;
+use HaroutItology\AwsTimestream\Builder\Builder;
+use HaroutItology\AwsTimestream\Builder\TimestreamQueryBuilder;
+use HaroutItology\AwsTimestream\Tests\TestCase;
+use HaroutItology\AwsTimestream\TimestreamBuilder;
 
 class QueryBuilderUnitTest extends TestCase
 {

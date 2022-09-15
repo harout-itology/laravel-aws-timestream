@@ -1,9 +1,9 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Builder;
+namespace HaroutItology\AwsTimestream\Builder;
 
 use Illuminate\Support\Carbon;
-use NorbyBaru\AwsTimestream\Contract\PayloadBuilderContract;
+use HaroutItology\AwsTimestream\Contract\PayloadBuilderContract;
 
 final class PayloadBuilder implements PayloadBuilderContract
 {

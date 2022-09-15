@@ -1,6 +1,6 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Contract;
+namespace HaroutItology\AwsTimestream\Contract;
 
 interface CanBuildQueryContract
 {

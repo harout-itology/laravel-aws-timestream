@@ -1,10 +1,10 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Tests;
+namespace HaroutItology\AwsTimestream\Tests;
 
 use Illuminate\Foundation\Testing\WithFaker;
-use NorbyBaru\AwsTimestream\Tests\Fixtures\Traits\ConfigurableTrait;
-use NorbyBaru\AwsTimestream\TimestreamServiceProvider;
+use HaroutItology\AwsTimestream\Tests\Fixtures\Traits\ConfigurableTrait;
+use HaroutItology\AwsTimestream\TimestreamServiceProvider;
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
 
 abstract class TestCase extends OrchestraTestCase

@@ -1,12 +1,12 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Builder;
+namespace HaroutItology\AwsTimestream\Builder;
 
 use Closure;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
-use NorbyBaru\AwsTimestream\Concerns\BuildersConcern;
-use NorbyBaru\AwsTimestream\Contract\QueryBuilderContract;
+use HaroutItology\AwsTimestream\Concerns\BuildersConcern;
+use HaroutItology\AwsTimestream\Contract\QueryBuilderContract;
 
 abstract class Builder implements QueryBuilderContract
 {

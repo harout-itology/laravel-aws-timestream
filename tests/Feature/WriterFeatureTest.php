@@ -1,13 +1,13 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Tests\Feature;
+namespace HaroutItology\AwsTimestream\Tests\Feature;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Carbon;
-use NorbyBaru\AwsTimestream\Dto\TimestreamWriterDto;
-use NorbyBaru\AwsTimestream\Tests\TestCase;
-use NorbyBaru\AwsTimestream\TimestreamBuilder;
-use NorbyBaru\AwsTimestream\TimestreamService;
+use HaroutItology\AwsTimestream\Dto\TimestreamWriterDto;
+use HaroutItology\AwsTimestream\Tests\TestCase;
+use HaroutItology\AwsTimestream\TimestreamBuilder;
+use HaroutItology\AwsTimestream\TimestreamService;
 
 class WriterFeatureTest extends TestCase
 {

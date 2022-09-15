@@ -1,6 +1,6 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream;
+namespace HaroutItology\AwsTimestream;
 
 use Aws\Credentials\Credentials;
 use Aws\TimestreamQuery\TimestreamQueryClient;

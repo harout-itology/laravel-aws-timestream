@@ -1,6 +1,6 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Exception;
+namespace HaroutItology\AwsTimestream\Exception;
 
 class FailTimestreamQueryException extends TimestreamException
 {

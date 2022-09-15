@@ -1,8 +1,8 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Tests\Feature;
+namespace HaroutItology\AwsTimestream\Tests\Feature;
 
-use NorbyBaru\AwsTimestream\Tests\TestCase;
+use HaroutItology\AwsTimestream\Tests\TestCase;
 
 class ReaderFeatureTest extends TestCase
 {

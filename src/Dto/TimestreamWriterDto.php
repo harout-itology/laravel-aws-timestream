@@ -1,6 +1,6 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Dto;
+namespace HaroutItology\AwsTimestream\Dto;
 
 final class TimestreamWriterDto extends AbstractTimestreamDto
 {

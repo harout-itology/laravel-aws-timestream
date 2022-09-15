@@ -1,6 +1,6 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream\Tests\Fixtures\Traits;
+namespace HaroutItology\AwsTimestream\Tests\Fixtures\Traits;
 
 trait ConfigurableTrait
 {

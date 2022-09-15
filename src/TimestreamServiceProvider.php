@@ -1,10 +1,10 @@
 <?php
 
-namespace NorbyBaru\AwsTimestream;
+namespace HaroutItology\AwsTimestream;
 
 use Illuminate\Support\ServiceProvider;
-use NorbyBaru\AwsTimestream\Builder\PayloadBuilder;
-use NorbyBaru\AwsTimestream\Contract\PayloadBuilderContract;
+use HaroutItology\AwsTimestream\Builder\PayloadBuilder;
+use HaroutItology\AwsTimestream\Contract\PayloadBuilderContract;
 
 class TimestreamServiceProvider extends ServiceProvider
 {
